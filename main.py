@@ -56,6 +56,7 @@ def get_story(link_base, output_file):
 				file.write(page_number_with_border)
 				file.write(story_text)
 			bar()
+
 """Creates a Unique Output Filename."""
 def create_output(output_dir, erotica_url):
 	suffix = 0
