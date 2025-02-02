@@ -7,7 +7,7 @@ If something got downloaded without an error, it's the whole thing, nothing more
 ```sh
 git clone https://github.com/enemyatgates/download-lit
 cd ./download-lit
-pip3 install -r requirements.txt
+pip3 install -r requirements.md
 python3 main.py "<LINK OF THE STORY>" # Example Link: https://www.literotica.com/s/a-challenge-part-01
 ```
 ## Notes
